@@ -1,2 +1,5 @@
 # StreamElementsbot
-A greet bot for the StreamElements Discord server.
+A bot for StreamElements
+
+# Features
+- Greet in the StreamElements Discord server.
